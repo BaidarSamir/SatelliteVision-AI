@@ -105,9 +105,10 @@ To run the frontend locally, follow these steps:
 This project is a collaborative effort by:
 
 - **Baidar Samir**
+- **Senhadji M. Said**
 - **Ali Abbou Oussama**
 - **Djeziri Oussama**
-- **Senhadji M. Said**
+
 
 Supervised by **Chaib Souleyman**.
 
